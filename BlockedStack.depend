@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1448471711 source:c:\users\danny hussain\desktop\blockedstack\blocked_stack_int.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	"blocked_stack_int.h"
+
+1447699629 c:\users\danny hussain\desktop\blockedstack\blocked_stack_int.h
+
+1447713829 source:c:\users\danny hussain\desktop\blockedstack\demo_blocked_stack.c
+	<stdio.h>
+	<stdlib.h>
+	"blocked_stack_int.h"
+
+1448829244 source:c:\users\danny hussain\desktop\assignment\blockedstack\demo_blocked_stack.c
+	<stdio.h>
+	<stdlib.h>
+	"blocked_stack_int.h"
+
+1447699629 c:\users\danny hussain\desktop\assignment\blockedstack\blocked_stack_int.h
+
+1449072283 source:c:\users\danny hussain\desktop\assignment\blockedstack\blocked_stack_int.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<conio.h>
+	"blocked_stack_int.h"
+
